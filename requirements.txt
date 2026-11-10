@@ -4,3 +4,4 @@ numpy>=1.26,<3
 scikit-learn>=1.6,<2
 fairlearn>=0.15,<1
 shap>=0.47,<1
+gunicorn
